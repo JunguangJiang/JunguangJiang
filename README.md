@@ -1,4 +1,12 @@
 ### Hi there 👋
+I am Junguang Jiang. Now, I'm a Master Student at Tsinghua University. 
+
+
+### Contact
+- e-mail: JiangJunguang1123@outlook.com 
+- google scholar: https://scholar.google.com/citations?hl=zh-CN&user=dXS9TPUAAAAJ
+
+[![JunguangJiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunguangJiang)](https://github.com/anuraghazra/github-readme-stats&count_private=true)
 
 <!--
 **JunguangJiang/JunguangJiang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +22,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
