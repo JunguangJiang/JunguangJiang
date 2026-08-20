@@ -1,12 +1,9 @@
 ### Hi there 👋
-I am Junguang Jiang. Now, I'm a Master Student at Tsinghua University. 
-
+I am Junguang Jiang.  
 
 ### Contact
-- website: https://junguangjiang.github.io
 - e-mail: JiangJunguang1123@outlook.com 
 - google scholar: https://scholar.google.com/citations?hl=zh-CN&user=dXS9TPUAAAAJ
-- zhihu: https://www.zhihu.com/people/JunguangJiang
 
 [![JunguangJiang's GitHub stats](https://github-readme-stats.vercel.app/api?username=JunguangJiang)](https://github.com/anuraghazra/github-readme-stats&count_private=true)
 
